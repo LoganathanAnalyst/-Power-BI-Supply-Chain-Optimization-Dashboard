@@ -66,13 +66,13 @@ SupplyChainDashboard.pbix
 
 ## 🏷️ Badges
 
-```md
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-F2C811?logo=power-bi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Measures-1F6FEB)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-008272)
+
+![Power BI](https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![DAX](https://img.shields.io/badge/Language-DAX-1F6FEB?logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-M-008272)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
-```
+![Status](https://img.shields.io/badge/Project-Active-success)
+
 
 ---
 

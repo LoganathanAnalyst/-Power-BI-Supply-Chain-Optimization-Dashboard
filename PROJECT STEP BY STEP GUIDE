@@ -1,0 +1,75 @@
+# 📦 Supply Chain Dashboard – Step-by-Step Guide
+
+---
+
+## **1. Introduction**
+This guide explains how to build and use the Supply Chain Dashboard Power BI project.
+
+---
+
+## **2. Project Overview**
+The dashboard provides insights into:
+- Inventory levels  
+- Order management  
+- Supplier performance  
+- Logistics and delivery metrics  
+
+---
+
+## **3. Requirements**
+- Power BI Desktop  
+- Data sources (Excel / CSV / Database)  
+- Basic knowledge of data modeling  
+
+---
+
+## **4. Step-by-Step Instructions**
+
+### **Step 1: Import Data**
+Use **Get Data** to load your Excel, CSV, or database files into Power BI.
+
+### **Step 2: Clean & Transform Data**
+Use **Power Query** to:
+- Remove errors  
+- Fix column data types  
+- Create required calculated columns  
+
+### **Step 3: Build Data Model**
+- Define relationships between tables  
+- Apply **star-schema** principles where possible  
+
+### **Step 4: Create Measures (DAX)**
+Build KPIs such as:
+- Total Orders  
+- Inventory Turnover  
+- Lead Time  
+- Supplier On-Time Delivery  
+
+### **Step 5: Build Visuals**
+Add visuals such as:
+- Charts  
+- KPI cards  
+- Tables  
+- Slicers  
+
+### **Step 6: Format Dashboard**
+- Apply theme and colors  
+- Use icons  
+- Maintain visual hierarchy  
+- Add data labels and tooltips  
+
+### **Step 7: Publish**
+Publish the report to **Power BI Service** and set up **scheduled refresh**.
+
+---
+
+## **5. Troubleshooting**
+- Check **data types** if visuals fail  
+- Validate **relationships** if filters don’t work  
+
+---
+
+## **6. Conclusion**
+Your dashboard is ready to deliver actionable insights for supply chain optimization.
+
+---

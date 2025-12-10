@@ -4,7 +4,7 @@
 
 ## 🌐 Overview
 SupplyChain360 is a complete Power BI dashboard designed for high-level supply chain analytics.  
-It converts raw operational data into real-time insights — ideal for analysts, BI developers, and decision-makers.
+It converts raw operational data into real-time insights — ideal for analysts, BI developers, and decision-makers
 
 ---
 

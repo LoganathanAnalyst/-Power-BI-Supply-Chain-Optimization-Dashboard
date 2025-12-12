@@ -8,7 +8,7 @@ It converts raw operational data into real-time insights — ideal for analysts,
 
 ---
 
-## ⭐ Key Features
+## ⭐ Key Features 
 - 🔍 **Inventory Intelligence** – Stock levels, safety stock, aging analysis  
 - 🚚 **Logistics Performance** – Delivery accuracy, cycle time, shipment tracking  
 - 🤝 **Supplier Metrics** – Fill rate, on-time delivery, lead-time stability  
